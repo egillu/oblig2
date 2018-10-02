@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    font: 1em sans-serif;
+    background-color: aliceblue;
+    }
+
+a{
+    text-decoration: none;
+    }
+
+a:hover{
+    text-decoration: underline;
+    }
+
+nav {
+    display: inline;
+    }
+
+nav a {
+    
+    color: black;
+    margin: 10px;
+    }
+
+footer{
+    width: 100%;
+    margin: auto;
+    height: 20px;
+    position: fixed;
+    bottom: 0;   
+    }
+
+/*artikler*/
+.tekst {
+    margin-left: 5px;
+    text-align: left;
+    }
+
+.bilde {
+    float: right;
+    margin: 15px; 
+    width: 50%;
+    } 
+ 
+img {
+    width:100%;
+    height: 300px;
+    }
